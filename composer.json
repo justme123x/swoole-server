@@ -1,0 +1,14 @@
+{
+    "name": "iaround/service",
+    "description": "service",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "lib/"
+        },
+        "files": [
+            "lib/helper.php"
+        ]
+    }
+}
