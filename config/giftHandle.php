@@ -3,6 +3,6 @@
  * 礼物处理配置
  */
 return [
-    'ip' => 'gifttcp.iaround.com',
+    'ip' => 'gifttcp.gift.com',
     'port' => 61001,
 ];
